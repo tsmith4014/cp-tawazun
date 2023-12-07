@@ -1,4 +1,4 @@
-name: Build for SonarQube test
+name: Build for SonarQube test and analysis
 
 on:
   push:
