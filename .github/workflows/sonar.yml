@@ -3,7 +3,7 @@ name: Build for SonarQube test
 on:
   push:
     branches:
-      - main
+      - master
 
 
 jobs:
